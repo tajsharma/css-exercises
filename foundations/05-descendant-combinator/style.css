@@ -1,0 +1,9 @@
+.text{
+    font-family:'Times New Roman', Times, serif;
+}
+div .text{
+    color:red;
+    background-color: yellow;
+    text-align: center;
+
+}
