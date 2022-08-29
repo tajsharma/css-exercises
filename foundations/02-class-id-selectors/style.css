@@ -1,0 +1,26 @@
+p{
+    font-family:Verdana, DejaVu Sans, sans-serif ;
+}
+div{
+    font-family:Verdana, DejaVu Sans, sans-serif ;
+}
+
+.normal{
+    background-color: rgb(255, 128, 128);
+}
+
+.cooler{
+    font-size:24px;
+}
+
+
+#first{
+    font-size:36px;
+    color:blue;
+}
+
+#second{
+    background-color: rgb(138, 255, 127);
+    font-weight: bold;
+    font-size:24px
+}
