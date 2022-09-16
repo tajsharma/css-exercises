@@ -56,3 +56,8 @@ ul{
   justify-content: center;
   flex: 1;
 }
+
+.right-links{
+  margin-right:20px;
+}
+
