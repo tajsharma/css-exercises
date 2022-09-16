@@ -35,12 +35,14 @@ input {
 .header{
   display: flex;
   justify-content: space-between;
+  font-size: small;
 }
 
 .footer{
   display:flex;
   justify-content: space-between;
   background-color: rgb(231, 231, 231);
+  font-size: small;
 }
 
 ul{
@@ -61,3 +63,25 @@ ul{
   margin-right:20px;
 }
 
+a:link {
+  color:grey;
+  text-decoration: none;
+}
+
+a:visited {
+  color:grey;
+  text-decoration: none;
+}
+
+a:hover {
+  color:grey;
+  text-decoration: none;
+}
+
+a:active {
+  color:grey;
+  text-decoration: none;
+}
+button{
+  padding:5px;
+}
