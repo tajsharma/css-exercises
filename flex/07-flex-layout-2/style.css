@@ -26,3 +26,12 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
 }
+
+.main{
+  display:flex;
+  flex:1;
+}
+
+.page{
+  min-height: 100vh;
+}
